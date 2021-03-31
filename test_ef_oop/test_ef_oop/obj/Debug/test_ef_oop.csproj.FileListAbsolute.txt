@@ -1,0 +1,16 @@
+E:\doco\RND\test_ef_oop\test_ef_oop\bin\Debug\test_ef_oop.exe.config
+E:\doco\RND\test_ef_oop\test_ef_oop\bin\Debug\test_ef_oop.exe
+E:\doco\RND\test_ef_oop\test_ef_oop\bin\Debug\test_ef_oop.pdb
+E:\doco\RND\test_ef_oop\test_ef_oop\bin\Debug\EntityFramework.dll
+E:\doco\RND\test_ef_oop\test_ef_oop\bin\Debug\EntityFramework.SqlServer.dll
+E:\doco\RND\test_ef_oop\test_ef_oop\bin\Debug\EntityFramework.xml
+E:\doco\RND\test_ef_oop\test_ef_oop\bin\Debug\EntityFramework.SqlServer.xml
+E:\doco\RND\test_ef_oop\test_ef_oop\obj\Debug\test_ef_oop.csprojAssemblyReference.cache
+E:\doco\RND\test_ef_oop\test_ef_oop\obj\Debug\test_ef_oop.frmLogin.resources
+E:\doco\RND\test_ef_oop\test_ef_oop\obj\Debug\test_ef_oop.Properties.Resources.resources
+E:\doco\RND\test_ef_oop\test_ef_oop\obj\Debug\test_ef_oop.csproj.GenerateResource.cache
+E:\doco\RND\test_ef_oop\test_ef_oop\obj\Debug\test_ef_oop.csproj.CoreCompileInputs.cache
+E:\doco\RND\test_ef_oop\test_ef_oop\obj\Debug\test_ef_oop.csproj.CopyComplete
+E:\doco\RND\test_ef_oop\test_ef_oop\obj\Debug\test_ef_oop.exe
+E:\doco\RND\test_ef_oop\test_ef_oop\obj\Debug\test_ef_oop.pdb
+E:\doco\RND\test_ef_oop\test_ef_oop\obj\Debug\test_ef_oop.Forms.frmCustomer.resources
